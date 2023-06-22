@@ -28,10 +28,13 @@ I've acquired a lot of basic knowledge on C programming :
 
 ---
 
-<h3 align="left">Walktrhough</h3>
+<h3 align="left">Walkthrough</h3>
 
 Go to [this page](https://buttery-library-40d.notion.site/Born2beRoot-fbd03d01d4ab4c8bb2ee654131cf3857?pvs=4) to discover my adventure through this project ! 👈
 
+---
+
 <div align="center">
+
 To look at [my next 42 project](https://github.com/LaOuede/Push_Swap) !
 </div>
