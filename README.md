@@ -6,7 +6,7 @@
 
 <p align=center> 
 <b>Born2beroot</b> is a project at 42, a coding school, focused on exploring the fundamentals of server administration.
-  It involves setting up and securing a virtual machine using specific requirements, such as using the LAMP stack, configuring a firewall, and implementing secure remote access.
+  It involves setting up and securing a virtual machine using specific requirements, such as configuring a firewall, implementing secure remote access...
   The project requires strong knowledge of Linux systems and network administration.
 </p>
 
