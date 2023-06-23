@@ -5,7 +5,7 @@
 <h1 align=center>Born2beRoot</h1>
 
 <p align=center> 
-<b>Born2beroot</b> is a project at 42, a coding school, focused on mastering server administration.
+<b>Born2beroot</b> is a project at 42, a coding school, focused on exploring the fundamentals of server administration.
   It involves setting up and securing a virtual machine using specific requirements, such as using the LAMP stack, configuring a firewall, and implementing secure remote access.
   The project requires strong knowledge of Linux systems and network administration.
 </p>
@@ -22,8 +22,10 @@ Go to [42 Québec](https://42quebec.com/) to discover the course ! 👈
 I've acquired a lot of basic knowledge on C programming :
 - Server Provisioning
 - Virtual Machine Setup
+- Partitioning
 - User Management and Permissions
 - Monitoring and Troubleshooting
+- Securing a system
 - Documentation and Compliance
 
 ---
