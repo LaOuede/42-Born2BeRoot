@@ -17,7 +17,7 @@ Go to [42 Québec](https://42quebec.com/) to discover the course ! 👈
 
 ---
 
-<h3 align="left">What I've learned</h3>
+<h3 align="left">What I've learned 📚</h3>
 
 I've acquired a lot of basic knowledge on C programming :
 - Server Provisioning
@@ -30,7 +30,7 @@ I've acquired a lot of basic knowledge on C programming :
 
 ---
 
-<h3 align="left">Walkthrough</h3>
+<h3 align="left">Walkthrough 📋</h3>
 
 Go to [this page](https://buttery-library-40d.notion.site/Born2beRoot-fbd03d01d4ab4c8bb2ee654131cf3857?pvs=4) to discover my adventure through this project ! 👈
 
